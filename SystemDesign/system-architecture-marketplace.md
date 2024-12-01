@@ -46,7 +46,7 @@ The architecture is designed to handle functional and non-functional requirement
 ## 5. Architecture Diagram
 Below is a high-level architecture diagram illustrating the design.
 
-![System Architecture Diagram](sandbox:system-architecture-marketplace-diagram.png)
+![System Architecture Diagram](/SystemDesign/system-architecture-marketplace-diagram.png)
 
 ## 6. Tools and Technologies
 | Component          | Tool/Technology                |
